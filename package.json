@@ -1,6 +1,6 @@
 {
 	"name": "es-shim-unscopables",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Helper package to shim a method into `Array.prototype[Symbol.unscopables]`",
 	"main": "index.js",
 	"exports": {
