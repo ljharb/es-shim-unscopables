@@ -1,0 +1,23 @@
+{
+	"name": "es-shim-unscopables",
+	"version": "0.0.0",
+	"description": "Helper package to shim a method into `Array.prototype[Symbol.unscopables]`",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/es-shim-unscopables.git"
+	},
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/es-shim-unscopables/issues"
+	},
+	"homepage": "https://github.com/ljharb/es-shim-unscopables#readme"
+}
