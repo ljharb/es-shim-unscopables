@@ -46,7 +46,8 @@
 		"tape": "^5.7.2"
 	},
 	"dependencies": {
-		"has": "^1.0.3"
+		"has": "^1.0.3",
+		"hasown": "^2.0.0"
 	},
 	"publishConfig": {
 		"ignore": [
