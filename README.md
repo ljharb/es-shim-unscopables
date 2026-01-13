@@ -53,5 +53,5 @@ Please email [@ljharb](https://github.com/ljharb) or see https://tidelift.com/se
 [downloads-url]: https://npm-stat.com/charts.html?package=es-shim-unscopables
 [codecov-image]: https://codecov.io/gh/ljharb/es-shim-unscopables/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/es-shim-unscopables/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/es-shim-unscopables
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/es-shim-unscopables/main
 [actions-url]: https://github.com/ljharb/es-shim-unscopables/actions
